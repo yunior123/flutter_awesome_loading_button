@@ -1,3 +1,7 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Creating the package
+
+## 0.0.2
+
+- Adding example

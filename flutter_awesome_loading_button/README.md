@@ -26,8 +26,7 @@ These is a very simple to use package.
 
 ## Usage
 
-
-to `/example` folder.
+Example
 
 ```dart
       AwesomeLoadingButton(

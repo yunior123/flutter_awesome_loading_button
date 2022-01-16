@@ -15,20 +15,35 @@ These is an awesome loading button without external dependencies
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+
+https://user-images.githubusercontent.com/47259501/149643618-8d5f1d58-b5ed-40f0-bae5-dbf2f9118b89.mov
+
+
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+These is a very simple to use package.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
+
 to `/example` folder.
 
 ```dart
-const like = 'sample';
+      AwesomeLoadingButton(
+          loadingIndicatorColor: Colors.blue,
+          loadingIndicatorValueColor: const AlwaysStoppedAnimation(
+            Colors.blueAccent,
+          ),
+          onPressed: () async {
+            await Future.delayed(
+              const Duration(
+                seconds: 5,
+              ),
+            );
+          },
+          text: 'Fetch',
+        ),
 ```
 
 ## Additional information

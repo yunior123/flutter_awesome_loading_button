@@ -14,6 +14,7 @@ and the Flutter guide for
 These is an awesome loading button without external dependencies
 
 ## Features
+![Capture d’écran, le 2022-01-15 à 20 50 59](https://user-images.githubusercontent.com/47259501/149644240-773ce018-eae8-4a28-9936-c662318a5a80.png)
 
 
 https://user-images.githubusercontent.com/47259501/149643618-8d5f1d58-b5ed-40f0-bae5-dbf2f9118b89.mov
